@@ -1,0 +1,8 @@
+body{
+	background: #ccc;
+}
+input{
+	display: block;
+	margin: 10px 0;
+	padding: 10px;
+}
